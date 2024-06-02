@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+NHÀ CÁI GAMEBAIDOITHUONGHN.COM - TOP 10 CỔNG GAME UY TÍN 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Game Bài Đổi Thưởng <https://gamebaidoithuonghn.com/>`_ là website chuyên cung cấp hơn 200 tựa game hấp dẫn như casino. bắn cá, tài xỉu,...mang đến cho người chơi những trải nghiệm vô cùng độc đáo. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: `https://gamebaidoithuonghn.com/ <https://gamebaidoithuonghn.com/>`_
 
-.. note::
+Địa chỉ: 891 Đ. Nguyễn Kiệm, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0316890966
 
-Contents
---------
+Email: info@gamebaidoithuonghn.com
 
-.. toctree::
-
-   usage
-   api
+Hastags: #GAMEBAIDOITHUONG #GAMEBAI #GAMEDOITHUONG #TOP10GAMEBAIDOITHUONG #GAME_BÀI_ĐỔI_THƯỞNG_UY_TÍN
